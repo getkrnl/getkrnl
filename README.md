@@ -1,7 +1,7 @@
 
                                                  
                                                  
-                                             simple girl that helps other people
+    simple girl that helps other people
 
 
 
