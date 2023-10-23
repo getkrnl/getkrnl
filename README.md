@@ -35,5 +35,5 @@
 <p align="left"> <a href="" target="_blank"> <a href="" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="cplusplus" width="60" height="60"/> <a href="" target="_blank"> <a href="" target="_blank"> <p align="left"> 
 <h3 align="left">tools that i'm using:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://avatars.mds.yandex.net/get-entity_search/4964907/555902968/S122x122Fit_2x" alt="ida" width="60" height="60"/> <a href="" target="_blank"> <img src="https://pbs.twimg.com/profile_images/923303365974593536/jP926AXC_400x400.jpg" alt="x64dbg" width="60" height="60"/> <a href="" target="_blank"> <p align="left"> 
-<h3 align="left">my discord: **getkrnl**</h3>
+<h3 align="left">my discord: getkrnl</h3>
 
